@@ -2,8 +2,8 @@
 LAB - 03 Express REST API
 
 * Author: Maram Abu Murad
-* [tests report]()
-* [Heroku link]()
+* [tests report](https://github.com/Maram-997/basic-api-server/actions)
+* [Heroku link](https://basic-apiserver.herokuapp.com/)
 * Setup .env requirements PORT - 3000
 * Running the app npm index.js
 * Endpoint: 
